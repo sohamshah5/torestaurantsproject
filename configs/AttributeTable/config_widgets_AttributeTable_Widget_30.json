@@ -1,0 +1,1526 @@
+{
+  "layerInfos": [
+    {
+      "name": "Bars",
+      "id": "export__3__geojson_9845_0",
+      "layer": {
+        "url": "",
+        "fields": [
+          {
+            "show": false,
+            "name": "@id",
+            "alias": "@id"
+          },
+          {
+            "show": true,
+            "name": "name",
+            "alias": "Name"
+          },
+          {
+            "show": true,
+            "name": "addr:city",
+            "alias": "City"
+          },
+          {
+            "show": true,
+            "name": "addr:housenumber",
+            "alias": "Number"
+          },
+          {
+            "show": true,
+            "name": "addr:postcode",
+            "alias": "Post Code"
+          },
+          {
+            "show": true,
+            "name": "addr:street",
+            "alias": "Street Name"
+          },
+          {
+            "show": true,
+            "name": "website",
+            "alias": "website"
+          },
+          {
+            "show": true,
+            "name": "phone",
+            "alias": "Phone Number"
+          },
+          {
+            "show": false,
+            "name": "amenity",
+            "alias": "amenity"
+          },
+          {
+            "show": true,
+            "name": "cuisine",
+            "alias": "Cuisine"
+          },
+          {
+            "show": true,
+            "name": "opening_hours",
+            "alias": "Opening Hours"
+          },
+          {
+            "show": true,
+            "name": "internet_access",
+            "alias": "Wifi"
+          },
+          {
+            "show": false,
+            "name": "internet_access:fee",
+            "alias": "internet_access:fee"
+          },
+          {
+            "show": false,
+            "name": "level",
+            "alias": "level"
+          },
+          {
+            "show": false,
+            "name": "old_name",
+            "alias": "old_name"
+          },
+          {
+            "show": false,
+            "name": "outdoor_seating",
+            "alias": "outdoor_seating"
+          },
+          {
+            "show": false,
+            "name": "payment:bitcoin",
+            "alias": "payment:bitcoin"
+          },
+          {
+            "show": false,
+            "name": "smoking",
+            "alias": "smoking"
+          },
+          {
+            "show": true,
+            "name": "wheelchair",
+            "alias": "Wheelchair Accessible?"
+          },
+          {
+            "show": false,
+            "name": "note",
+            "alias": "note"
+          },
+          {
+            "show": false,
+            "name": "opendata:type",
+            "alias": "opendata:type"
+          },
+          {
+            "show": false,
+            "name": "source",
+            "alias": "source"
+          },
+          {
+            "show": false,
+            "name": "created_by",
+            "alias": "created_by"
+          },
+          {
+            "show": false,
+            "name": "wheelchair:description",
+            "alias": "wheelchair:description"
+          },
+          {
+            "show": true,
+            "name": "email",
+            "alias": "Email"
+          },
+          {
+            "show": false,
+            "name": "addr:housename",
+            "alias": "addr:housename"
+          },
+          {
+            "show": true,
+            "name": "contact:instagram",
+            "alias": "Instagram"
+          },
+          {
+            "show": true,
+            "name": "contact:twitter",
+            "alias": "Twitter"
+          },
+          {
+            "show": false,
+            "name": "drink",
+            "alias": "drink"
+          },
+          {
+            "show": false,
+            "name": "toilets:wheelchair",
+            "alias": "toilets:wheelchair"
+          },
+          {
+            "show": false,
+            "name": "operator",
+            "alias": "operator"
+          },
+          {
+            "show": false,
+            "name": "name:en",
+            "alias": "name:en"
+          },
+          {
+            "show": false,
+            "name": "alt_name",
+            "alias": "alt_name"
+          },
+          {
+            "show": false,
+            "name": "fixme",
+            "alias": "fixme"
+          },
+          {
+            "show": false,
+            "name": "addr:place",
+            "alias": "addr:place"
+          },
+          {
+            "show": false,
+            "name": "alt_name_1",
+            "alias": "alt_name_1"
+          },
+          {
+            "show": false,
+            "name": "name:it",
+            "alias": "name:it"
+          },
+          {
+            "show": false,
+            "name": "description",
+            "alias": "description"
+          },
+          {
+            "show": false,
+            "name": "wikidata",
+            "alias": "wikidata"
+          },
+          {
+            "show": false,
+            "name": "wikipedia:en",
+            "alias": "wikipedia:en"
+          },
+          {
+            "show": false,
+            "name": "addr:unit",
+            "alias": "addr:unit"
+          },
+          {
+            "show": true,
+            "name": "diet:vegan",
+            "alias": "Vegan?"
+          },
+          {
+            "show": false,
+            "name": "brewery",
+            "alias": "brewery"
+          },
+          {
+            "show": true,
+            "name": "diet:gluten_free",
+            "alias": "GF Options?"
+          },
+          {
+            "show": false,
+            "name": "addr:province",
+            "alias": "addr:province"
+          },
+          {
+            "show": true,
+            "name": "facebook",
+            "alias": "Facebook"
+          },
+          {
+            "show": false,
+            "name": "building",
+            "alias": "building"
+          },
+          {
+            "show": false,
+            "name": "ObjectId",
+            "alias": ""
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Cafes",
+      "id": "export__2__geojson_2459_0",
+      "layer": {
+        "url": "",
+        "fields": [
+          {
+            "show": false,
+            "name": "@id",
+            "alias": "@id"
+          },
+          {
+            "show": true,
+            "name": "amenity",
+            "alias": "amenity"
+          },
+          {
+            "show": false,
+            "name": "brand",
+            "alias": "brand"
+          },
+          {
+            "show": false,
+            "name": "brand:wikidata",
+            "alias": "brand:wikidata"
+          },
+          {
+            "show": false,
+            "name": "brand:wikipedia",
+            "alias": "brand:wikipedia"
+          },
+          {
+            "show": true,
+            "name": "cuisine",
+            "alias": "cuisine"
+          },
+          {
+            "show": true,
+            "name": "name",
+            "alias": "name"
+          },
+          {
+            "show": true,
+            "name": "takeaway",
+            "alias": "Takeaway?"
+          },
+          {
+            "show": true,
+            "name": "wheelchair",
+            "alias": "Wheelchair Accessible?"
+          },
+          {
+            "show": true,
+            "name": "addr:city",
+            "alias": "City"
+          },
+          {
+            "show": true,
+            "name": "addr:housenumber",
+            "alias": "Number"
+          },
+          {
+            "show": true,
+            "name": "addr:street",
+            "alias": "Street Name"
+          },
+          {
+            "show": false,
+            "name": "alt_name",
+            "alias": "alt_name"
+          },
+          {
+            "show": false,
+            "name": "internet_access",
+            "alias": "internet_access"
+          },
+          {
+            "show": false,
+            "name": "internet_access:fee",
+            "alias": "internet_access:fee"
+          },
+          {
+            "show": false,
+            "name": "official_name",
+            "alias": "official_name"
+          },
+          {
+            "show": true,
+            "name": "opening_hours",
+            "alias": "Hours"
+          },
+          {
+            "show": false,
+            "name": "recycling:coffee_cups",
+            "alias": "recycling:coffee_cups"
+          },
+          {
+            "show": true,
+            "name": "addr:postcode",
+            "alias": "Post Code"
+          },
+          {
+            "show": false,
+            "name": "description",
+            "alias": "description"
+          },
+          {
+            "show": false,
+            "name": "hst_number",
+            "alias": "hst_number"
+          },
+          {
+            "show": false,
+            "name": "self_checkout",
+            "alias": "self_checkout"
+          },
+          {
+            "show": false,
+            "name": "capacity",
+            "alias": "capacity"
+          },
+          {
+            "show": false,
+            "name": "smoking",
+            "alias": "smoking"
+          },
+          {
+            "show": true,
+            "name": "wifi",
+            "alias": "Wifi?"
+          },
+          {
+            "show": false,
+            "name": "drive_through",
+            "alias": "drive_through"
+          },
+          {
+            "show": false,
+            "name": "wheelchair:description",
+            "alias": "wheelchair:description"
+          },
+          {
+            "show": false,
+            "name": "source",
+            "alias": "source"
+          },
+          {
+            "show": true,
+            "name": "drink:espresso",
+            "alias": "Espresso"
+          },
+          {
+            "show": false,
+            "name": "wlan",
+            "alias": "wlan"
+          },
+          {
+            "show": false,
+            "name": "source:alt_name",
+            "alias": "source:alt_name"
+          },
+          {
+            "show": true,
+            "name": "website",
+            "alias": "Website"
+          },
+          {
+            "show": false,
+            "name": "note",
+            "alias": "note"
+          },
+          {
+            "show": false,
+            "name": "washroom",
+            "alias": "washroom"
+          },
+          {
+            "show": false,
+            "name": "toilets",
+            "alias": "toilets"
+          },
+          {
+            "show": false,
+            "name": "outdoor_seating",
+            "alias": "outdoor_seating"
+          },
+          {
+            "show": true,
+            "name": "phone",
+            "alias": "Phone Number"
+          },
+          {
+            "show": false,
+            "name": "toilets:wheelchair",
+            "alias": "toilets:wheelchair"
+          },
+          {
+            "show": false,
+            "name": "created_by",
+            "alias": "created_by"
+          },
+          {
+            "show": true,
+            "name": "patio",
+            "alias": "Patio Access?"
+          },
+          {
+            "show": false,
+            "name": "operator",
+            "alias": "operator"
+          },
+          {
+            "show": false,
+            "name": "opendata:type",
+            "alias": "opendata:type"
+          },
+          {
+            "show": false,
+            "name": "FIXME",
+            "alias": "FIXME"
+          },
+          {
+            "show": false,
+            "name": "level",
+            "alias": "level"
+          },
+          {
+            "show": false,
+            "name": "old_name",
+            "alias": "old_name"
+          },
+          {
+            "show": false,
+            "name": "addr:district",
+            "alias": "addr:district"
+          },
+          {
+            "show": false,
+            "name": "washrooms",
+            "alias": "washrooms"
+          },
+          {
+            "show": false,
+            "name": "floor",
+            "alias": "floor"
+          },
+          {
+            "show": false,
+            "name": "wikidata",
+            "alias": "wikidata"
+          },
+          {
+            "show": false,
+            "name": "wikipedia:en",
+            "alias": "wikipedia:en"
+          },
+          {
+            "show": false,
+            "name": "layer",
+            "alias": "layer"
+          },
+          {
+            "show": false,
+            "name": "dispensing",
+            "alias": "dispensing"
+          },
+          {
+            "show": false,
+            "name": "self_service",
+            "alias": "self_service"
+          },
+          {
+            "show": false,
+            "name": "cost:coffee",
+            "alias": "cost:coffee"
+          },
+          {
+            "show": false,
+            "name": "payment:american_express",
+            "alias": "payment:american_express"
+          },
+          {
+            "show": false,
+            "name": "payment:cash",
+            "alias": "payment:cash"
+          },
+          {
+            "show": false,
+            "name": "payment:mastercard",
+            "alias": "payment:mastercard"
+          },
+          {
+            "show": false,
+            "name": "payment:visa",
+            "alias": "payment:visa"
+          },
+          {
+            "show": false,
+            "name": "store_ref",
+            "alias": "store_ref"
+          },
+          {
+            "show": false,
+            "name": "toilets:access",
+            "alias": "toilets:access"
+          },
+          {
+            "show": false,
+            "name": "addr:place",
+            "alias": "addr:place"
+          },
+          {
+            "show": false,
+            "name": "payment:debit_cards",
+            "alias": "payment:debit_cards"
+          },
+          {
+            "show": false,
+            "name": "access",
+            "alias": "access"
+          },
+          {
+            "show": false,
+            "name": "aka",
+            "alias": "aka"
+          },
+          {
+            "show": false,
+            "name": "postal_code",
+            "alias": "postal_code"
+          },
+          {
+            "show": false,
+            "name": "payment:interac",
+            "alias": "payment:interac"
+          },
+          {
+            "show": false,
+            "name": "addr:unit",
+            "alias": "addr:unit"
+          },
+          {
+            "show": false,
+            "name": "payment:gift_card",
+            "alias": "payment:gift_card"
+          },
+          {
+            "show": false,
+            "name": "internet_access:ssid",
+            "alias": "internet_access:ssid"
+          },
+          {
+            "show": false,
+            "name": "contact:facebook",
+            "alias": "Facebook"
+          },
+          {
+            "show": false,
+            "name": "contact:instagram",
+            "alias": "Instagram"
+          },
+          {
+            "show": false,
+            "name": "gst_number",
+            "alias": "gst_number"
+          },
+          {
+            "show": false,
+            "name": "source:name",
+            "alias": "source:name"
+          },
+          {
+            "show": false,
+            "name": "shop",
+            "alias": "shop"
+          },
+          {
+            "show": false,
+            "name": "seating_area",
+            "alias": "seating_area"
+          },
+          {
+            "show": false,
+            "name": "capacity_1",
+            "alias": "capacity_1"
+          },
+          {
+            "show": false,
+            "name": "payment:amex",
+            "alias": "payment:amex"
+          },
+          {
+            "show": false,
+            "name": "payment:coins",
+            "alias": "payment:coins"
+          },
+          {
+            "show": false,
+            "name": "payment:notes",
+            "alias": "payment:notes"
+          },
+          {
+            "show": false,
+            "name": "opening_hours:covid19",
+            "alias": "opening_hours:covid19"
+          },
+          {
+            "show": false,
+            "name": "newspapers",
+            "alias": "newspapers"
+          },
+          {
+            "show": false,
+            "name": "payment:cryptocurrencies",
+            "alias": "payment:cryptocurrencies"
+          },
+          {
+            "show": false,
+            "name": "addr:housename",
+            "alias": "addr:housename"
+          },
+          {
+            "show": false,
+            "name": "colour",
+            "alias": "colour"
+          },
+          {
+            "show": false,
+            "name": "emergency",
+            "alias": "emergency"
+          },
+          {
+            "show": false,
+            "name": "seats",
+            "alias": "seats"
+          },
+          {
+            "show": false,
+            "name": "drink",
+            "alias": "drink"
+          },
+          {
+            "show": false,
+            "name": "catering",
+            "alias": "catering"
+          },
+          {
+            "show": false,
+            "name": "atm",
+            "alias": "atm"
+          },
+          {
+            "show": false,
+            "name": "addr:house",
+            "alias": "addr:house"
+          },
+          {
+            "show": false,
+            "name": "name:it",
+            "alias": "name:it"
+          },
+          {
+            "show": false,
+            "name": "diet:vegetarian",
+            "alias": "diet:vegetarian"
+          },
+          {
+            "show": false,
+            "name": "chocolates",
+            "alias": "chocolates"
+          },
+          {
+            "show": false,
+            "name": "payment:credit_cards",
+            "alias": "payment:credit_cards"
+          },
+          {
+            "show": true,
+            "name": "twitter",
+            "alias": "Twitter"
+          },
+          {
+            "show": false,
+            "name": "addr:suburb",
+            "alias": "addr:suburb"
+          },
+          {
+            "show": false,
+            "name": "brand:en",
+            "alias": "brand:en"
+          },
+          {
+            "show": false,
+            "name": "brand:zh",
+            "alias": "brand:zh"
+          },
+          {
+            "show": false,
+            "name": "name:en",
+            "alias": "name:en"
+          },
+          {
+            "show": false,
+            "name": "name:zh",
+            "alias": "name:zh"
+          },
+          {
+            "show": false,
+            "name": "email",
+            "alias": "email"
+          },
+          {
+            "show": false,
+            "name": "manager",
+            "alias": "manager"
+          },
+          {
+            "show": false,
+            "name": "manager:phone",
+            "alias": "manager:phone"
+          },
+          {
+            "show": false,
+            "name": "indoor_seating",
+            "alias": "indoor_seating"
+          },
+          {
+            "show": false,
+            "name": "seating",
+            "alias": "seating"
+          },
+          {
+            "show": true,
+            "name": "delivery",
+            "alias": "Delivery?"
+          },
+          {
+            "show": false,
+            "name": "air_conditioning",
+            "alias": "air_conditioning"
+          },
+          {
+            "show": false,
+            "name": "addr:province",
+            "alias": "addr:province"
+          },
+          {
+            "show": false,
+            "name": "operator:wikidata",
+            "alias": "operator:wikidata"
+          },
+          {
+            "show": false,
+            "name": "operator:wikipedia",
+            "alias": "operator:wikipedia"
+          },
+          {
+            "show": false,
+            "name": "store_name",
+            "alias": "store_name"
+          },
+          {
+            "show": false,
+            "name": "former_name",
+            "alias": "former_name"
+          },
+          {
+            "show": false,
+            "name": "breakfast",
+            "alias": "breakfast"
+          },
+          {
+            "show": false,
+            "name": "name:fr",
+            "alias": "name:fr"
+          },
+          {
+            "show": false,
+            "name": "leisure",
+            "alias": "leisure"
+          },
+          {
+            "show": false,
+            "name": "payment:credit_card",
+            "alias": "payment:credit_card"
+          },
+          {
+            "show": false,
+            "name": "payment:debit_card",
+            "alias": "payment:debit_card"
+          },
+          {
+            "show": false,
+            "name": "source:addr",
+            "alias": "source:addr"
+          },
+          {
+            "show": false,
+            "name": "nae",
+            "alias": "nae"
+          },
+          {
+            "show": false,
+            "name": "addr:country",
+            "alias": "addr:country"
+          },
+          {
+            "show": false,
+            "name": "ObjectId",
+            "alias": ""
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Restaurants",
+      "id": "OSM_700",
+      "layer": {
+        "url": "https://services7.arcgis.com/AHJOWTX3sFcnmA9U/arcgis/rest/services/OSM/FeatureServer/0",
+        "fields": [
+          {
+            "show": false,
+            "name": "F_id",
+            "alias": "@id"
+          },
+          {
+            "show": true,
+            "name": "amenity",
+            "alias": "amenity"
+          },
+          {
+            "show": true,
+            "name": "addr_city",
+            "alias": "City"
+          },
+          {
+            "show": true,
+            "name": "addr_housenumber",
+            "alias": "Number"
+          },
+          {
+            "show": true,
+            "name": "addr_street",
+            "alias": "Street Name"
+          },
+          {
+            "show": true,
+            "name": "name",
+            "alias": "Name"
+          },
+          {
+            "show": true,
+            "name": "phone",
+            "alias": "Phone Number"
+          },
+          {
+            "show": true,
+            "name": "website",
+            "alias": "Website"
+          },
+          {
+            "show": true,
+            "name": "cuisine",
+            "alias": "Cuisine"
+          },
+          {
+            "show": true,
+            "name": "takeaway",
+            "alias": "Takeaway?"
+          },
+          {
+            "show": true,
+            "name": "addr_postcode",
+            "alias": "Post Code"
+          },
+          {
+            "show": true,
+            "name": "wheelchair",
+            "alias": "Wheelchair Accessible?"
+          },
+          {
+            "show": false,
+            "name": "brand",
+            "alias": "brand"
+          },
+          {
+            "show": false,
+            "name": "brand_wikipedia",
+            "alias": "brand:wikipedia"
+          },
+          {
+            "show": false,
+            "name": "level_",
+            "alias": "level"
+          },
+          {
+            "show": true,
+            "name": "delivery",
+            "alias": "Delivery"
+          },
+          {
+            "show": true,
+            "name": "opening_hours",
+            "alias": "Hours"
+          },
+          {
+            "show": true,
+            "name": "llbo",
+            "alias": "LLBO?"
+          },
+          {
+            "show": false,
+            "name": "wheelchair_description",
+            "alias": "wheelchair:description"
+          },
+          {
+            "show": false,
+            "name": "alt_name",
+            "alias": "alt_name"
+          },
+          {
+            "show": false,
+            "name": "description",
+            "alias": "description"
+          },
+          {
+            "show": false,
+            "name": "operator",
+            "alias": "operator"
+          },
+          {
+            "show": false,
+            "name": "floor",
+            "alias": "floor"
+          },
+          {
+            "show": false,
+            "name": "note",
+            "alias": "note"
+          },
+          {
+            "show": false,
+            "name": "addr_province",
+            "alias": "addr:province"
+          },
+          {
+            "show": true,
+            "name": "diet_vegan",
+            "alias": "Vegan Options?"
+          },
+          {
+            "show": false,
+            "name": "smoking",
+            "alias": "smoking"
+          },
+          {
+            "show": false,
+            "name": "fixme",
+            "alias": "fixme"
+          },
+          {
+            "show": false,
+            "name": "source",
+            "alias": "source"
+          },
+          {
+            "show": false,
+            "name": "addr_unit",
+            "alias": "addr:unit"
+          },
+          {
+            "show": false,
+            "name": "name_fr",
+            "alias": "name:fr"
+          },
+          {
+            "show": false,
+            "name": "url",
+            "alias": "url"
+          },
+          {
+            "show": false,
+            "name": "addr_housename",
+            "alias": "addr:housename"
+          },
+          {
+            "show": false,
+            "name": "diet",
+            "alias": "diet"
+          },
+          {
+            "show": false,
+            "name": "opendata_type",
+            "alias": "opendata:type"
+          },
+          {
+            "show": false,
+            "name": "shop",
+            "alias": "shop"
+          },
+          {
+            "show": false,
+            "name": "stars",
+            "alias": "stars"
+          },
+          {
+            "show": false,
+            "name": "stars_system",
+            "alias": "stars:system"
+          },
+          {
+            "show": false,
+            "name": "wikidata",
+            "alias": "wikidata"
+          },
+          {
+            "show": false,
+            "name": "wikipedia",
+            "alias": "wikipedia"
+          },
+          {
+            "show": false,
+            "name": "atm",
+            "alias": "atm"
+          },
+          {
+            "show": false,
+            "name": "drive_through",
+            "alias": "drive_through"
+          },
+          {
+            "show": false,
+            "name": "air_conditioning",
+            "alias": "air_conditioning"
+          },
+          {
+            "show": true,
+            "name": "diet_halal",
+            "alias": "Halal Options?"
+          },
+          {
+            "show": false,
+            "name": "old_name",
+            "alias": "old_name"
+          },
+          {
+            "show": false,
+            "name": "name_en",
+            "alias": "name:en"
+          },
+          {
+            "show": true,
+            "name": "contact_facebook",
+            "alias": "Facebook"
+          },
+          {
+            "show": false,
+            "name": "official_name",
+            "alias": "official_name"
+          },
+          {
+            "show": false,
+            "name": "capacity",
+            "alias": "capacity"
+          },
+          {
+            "show": true,
+            "name": "email",
+            "alias": "Email"
+          },
+          {
+            "show": false,
+            "name": "payment_cash",
+            "alias": "payment:cash"
+          },
+          {
+            "show": false,
+            "name": "payment_credit_cards",
+            "alias": "payment:credit_cards"
+          },
+          {
+            "show": false,
+            "name": "payment_debit_cards",
+            "alias": "payment:debit_cards"
+          },
+          {
+            "show": false,
+            "name": "addr_country",
+            "alias": "addr:country"
+          },
+          {
+            "show": false,
+            "name": "opening_hours_signed",
+            "alias": "opening_hours:signed"
+          },
+          {
+            "show": false,
+            "name": "fax",
+            "alias": "fax"
+          },
+          {
+            "show": true,
+            "name": "take_out",
+            "alias": "Takeaway?"
+          },
+          {
+            "show": false,
+            "name": "name_ko",
+            "alias": "name:ko"
+          },
+          {
+            "show": false,
+            "name": "self_service",
+            "alias": "self_service"
+          },
+          {
+            "show": false,
+            "name": "name_ar",
+            "alias": "name:ar"
+          },
+          {
+            "show": false,
+            "name": "est_date",
+            "alias": "est_date"
+          },
+          {
+            "show": false,
+            "name": "gst_number",
+            "alias": "gst_number"
+          },
+          {
+            "show": false,
+            "name": "addr_place",
+            "alias": "addr:place"
+          },
+          {
+            "show": false,
+            "name": "opening_hours_delivery",
+            "alias": "opening_hours:delivery"
+          },
+          {
+            "show": false,
+            "name": "hst_number",
+            "alias": "hst_number"
+          },
+          {
+            "show": false,
+            "name": "store_ref",
+            "alias": "store_ref"
+          },
+          {
+            "show": false,
+            "name": "leisure",
+            "alias": "leisure"
+          },
+          {
+            "show": true,
+            "name": "diet_vegetarian",
+            "alias": "Vegetarian Options?"
+          },
+          {
+            "show": false,
+            "name": "parking",
+            "alias": "parking"
+          },
+          {
+            "show": false,
+            "name": "drink",
+            "alias": "drink"
+          },
+          {
+            "show": false,
+            "name": "valet",
+            "alias": "valet"
+          },
+          {
+            "show": false,
+            "name": "stars_date",
+            "alias": "stars:date"
+          },
+          {
+            "show": false,
+            "name": "start_date",
+            "alias": "start_date"
+          },
+          {
+            "show": false,
+            "name": "indoor_seating",
+            "alias": "indoor_seating"
+          },
+          {
+            "show": false,
+            "name": "cater",
+            "alias": "cater"
+          },
+          {
+            "show": false,
+            "name": "historic",
+            "alias": "historic"
+          },
+          {
+            "show": false,
+            "name": "vacant",
+            "alias": "vacant"
+          },
+          {
+            "show": true,
+            "name": "diet_gluten_free",
+            "alias": "GF Options?"
+          },
+          {
+            "show": false,
+            "name": "dine_in",
+            "alias": "dine_in"
+          },
+          {
+            "show": false,
+            "name": "wifi",
+            "alias": "wifi"
+          },
+          {
+            "show": false,
+            "name": "catering",
+            "alias": "catering"
+          },
+          {
+            "show": false,
+            "name": "layer",
+            "alias": "layer"
+          },
+          {
+            "show": false,
+            "name": "sport",
+            "alias": "sport"
+          },
+          {
+            "show": false,
+            "name": "internet_access",
+            "alias": "internet_access"
+          },
+          {
+            "show": false,
+            "name": "payment_bitcoin",
+            "alias": "payment:bitcoin"
+          },
+          {
+            "show": false,
+            "name": "short_name",
+            "alias": "short_name"
+          },
+          {
+            "show": false,
+            "name": "unit",
+            "alias": "unit"
+          },
+          {
+            "show": false,
+            "name": "internet_access_fee",
+            "alias": "internet_access:fee"
+          },
+          {
+            "show": false,
+            "name": "store_name",
+            "alias": "store_name"
+          },
+          {
+            "show": false,
+            "name": "designation",
+            "alias": "designation"
+          },
+          {
+            "show": false,
+            "name": "int_name",
+            "alias": "int_name"
+          },
+          {
+            "show": false,
+            "name": "payment_coinkite",
+            "alias": "payment:coinkite"
+          },
+          {
+            "show": false,
+            "name": "payment_coins",
+            "alias": "payment:coins"
+          },
+          {
+            "show": false,
+            "name": "name_zh",
+            "alias": "name:zh"
+          },
+          {
+            "show": false,
+            "name": "building",
+            "alias": "building"
+          },
+          {
+            "show": false,
+            "name": "building_levels",
+            "alias": "building:levels"
+          },
+          {
+            "show": false,
+            "name": "addr_subdistrict",
+            "alias": "addr:subdistrict"
+          },
+          {
+            "show": false,
+            "name": "addr_hamlet",
+            "alias": "addr:hamlet"
+          },
+          {
+            "show": false,
+            "name": "name_vi",
+            "alias": "name:vi"
+          },
+          {
+            "show": false,
+            "name": "wikipedia_en",
+            "alias": "wikipedia:en"
+          },
+          {
+            "show": false,
+            "name": "max_occupancy",
+            "alias": "max_occupancy"
+          },
+          {
+            "show": false,
+            "name": "seating",
+            "alias": "seating"
+          },
+          {
+            "show": false,
+            "name": "entrance",
+            "alias": "entrance"
+          },
+          {
+            "show": false,
+            "name": "eat_in",
+            "alias": "eat_in"
+          },
+          {
+            "show": false,
+            "name": "microbrewery",
+            "alias": "microbrewery"
+          },
+          {
+            "show": true,
+            "name": "halal",
+            "alias": "Halal Options?"
+          },
+          {
+            "show": false,
+            "name": "owner",
+            "alias": "owner"
+          },
+          {
+            "show": false,
+            "name": "comment",
+            "alias": "comment"
+          },
+          {
+            "show": false,
+            "name": "opening_hours_url",
+            "alias": "opening_hours:url"
+          },
+          {
+            "show": false,
+            "name": "dog",
+            "alias": "dog"
+          },
+          {
+            "show": false,
+            "name": "name_it",
+            "alias": "name:it"
+          },
+          {
+            "show": false,
+            "name": "name_ru",
+            "alias": "name:ru"
+          },
+          {
+            "show": false,
+            "name": "facebook",
+            "alias": "facebook"
+          },
+          {
+            "show": false,
+            "name": "payment_discover_card",
+            "alias": "payment:discover_card"
+          },
+          {
+            "show": false,
+            "name": "bar",
+            "alias": "bar"
+          },
+          {
+            "show": false,
+            "name": "name_1",
+            "alias": "name_1"
+          },
+          {
+            "show": false,
+            "name": "type",
+            "alias": "type"
+          },
+          {
+            "show": true,
+            "name": "barbecue",
+            "alias": "BBQ"
+          },
+          {
+            "show": true,
+            "name": "diet_meat",
+            "alias": "Meat Options?"
+          },
+          {
+            "show": true,
+            "name": "diet_pescetarian",
+            "alias": "Pescetarian Options?"
+          },
+          {
+            "show": false,
+            "name": "reservation",
+            "alias": "reservation"
+          },
+          {
+            "show": false,
+            "name": "toilets",
+            "alias": "toilets"
+          },
+          {
+            "show": false,
+            "name": "brewery",
+            "alias": "brewery"
+          },
+          {
+            "show": false,
+            "name": "toilets_access",
+            "alias": "toilets:access"
+          },
+          {
+            "show": false,
+            "name": "ObjectId",
+            "alias": "ObjectId"
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}

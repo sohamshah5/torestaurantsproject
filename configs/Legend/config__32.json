@@ -1,0 +1,20 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "export__3__geojson_9845_0": {
+      "selected": true
+    },
+    "export__2__geojson_2459_0": {
+      "selected": true
+    },
+    "OSM_700": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}

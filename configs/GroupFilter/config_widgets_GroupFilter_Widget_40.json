@@ -1,0 +1,95 @@
+{
+  "groups": [
+    {
+      "name": "Cuisine",
+      "desc": "Find restaurants in Toronto based on cuisine.",
+      "operator": "",
+      "defaultVal": "",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "AND",
+      "caseSearch": false,
+      "layers": [
+        {
+          "layer": "OSM_700",
+          "field": "cuisine",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        }
+      ]
+    },
+    {
+      "name": "Dietary Restrictions",
+      "desc": "Find restaurants that fit your dietary needs!",
+      "operator": "",
+      "defaultVal": "",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "OR",
+      "caseSearch": false,
+      "layers": [
+        {
+          "layer": "OSM_700",
+          "field": "diet_vegan",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "OSM_700",
+          "field": "diet_halal",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "OSM_700",
+          "field": "diet_vegetarian",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "OSM_700",
+          "field": "diet_gluten_free",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "OSM_700",
+          "field": "diet_meat",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "OSM_700",
+          "field": "diet_pescetarian",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        }
+      ]
+    },
+    {
+      "name": "Delivery/Takeout",
+      "desc": "Does the restaurant offer Delivery or Takeout?",
+      "operator": "",
+      "defaultVal": "",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "OR",
+      "caseSearch": false,
+      "layers": [
+        {
+          "layer": "OSM_700",
+          "field": "delivery",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "OSM_700",
+          "field": "take_out",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        }
+      ]
+    }
+  ],
+  "persistOnClose": false,
+  "slAppendChoice": "OR",
+  "zoomMode": false,
+  "headerText": "Select a Group to Filter"
+}
